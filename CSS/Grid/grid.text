@@ -1,0 +1,5 @@
+Grid is used to display the items in 2 dimensional space.
+By default grid container takes all elements
+grid-template-columns:these are optional.
+justify-content-works on x-axis.
+align-items-on y-axis.
