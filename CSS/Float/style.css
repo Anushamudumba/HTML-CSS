@@ -1,0 +1,16 @@
+.image
+{
+    float:right;
+}
+img{
+    float:right;
+}
+
+p{
+    right: 100x;
+}
+.box{
+    border:2px solid black;
+    height: 500px;
+    width:700px;
+}
