@@ -1,0 +1,23 @@
+body{
+    background:linear-gradient(to right,white,blue,green,skyblue,red,black);
+    
+}
+button
+{
+    background-color: rgb(238, 231, 130);
+    color: blue;
+}
+/*class name*/
+.anusha
+{
+background-color: pink
+;
+}
+h1{
+color:black;
+}
+/* #is for the id*/
+#anu
+{
+    background-color: orangered;
+}

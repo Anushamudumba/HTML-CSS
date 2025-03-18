@@ -1,0 +1,27 @@
+body{
+background-color: antiquewhite;
+}
+.main{
+    background-color:skyblue;
+    height: 50vh;
+    width: 200px;
+    font-size:20px;
+}
+.box{
+    background-color: palevioletred;
+    height:50%;
+    width: 50px;
+}
+h1{
+    text-align: center;
+}
+p
+{
+    border: left 2px;
+    text-align: center;
+    text-transform: center;
+}
+
+
+
+
